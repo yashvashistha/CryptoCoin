@@ -1,0 +1,12 @@
+.main-container{  
+    background-color: #121212;
+    color: white;
+    width: 100%;
+    position: fixed;
+    padding: 0.5%;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 400;
+}

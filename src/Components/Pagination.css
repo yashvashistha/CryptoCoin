@@ -1,0 +1,13 @@
+.page-item {
+    background-color: #121212;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    background-color: #121212;
+    color: white;
+}

@@ -1,0 +1,10 @@
+.main-con{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.coins-list {
+    width: 100%;
+}

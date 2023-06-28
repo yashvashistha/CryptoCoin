@@ -1,0 +1,26 @@
+.coin-name {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+p {
+    margin: 5px;
+}
+.table-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5%;
+    border-bottom: 1px solid wheat;
+}
+
+@media (max-width: 720px){
+    .table-row{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 7%;
+        border-bottom: 1px solid wheat;
+    }
+}
